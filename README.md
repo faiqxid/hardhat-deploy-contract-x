@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/faiqxid/hardhat-deploy-contract-x.git
 ```
 
 ```
